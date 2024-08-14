@@ -1,2 +1,10 @@
 # iOS-Themes
 A collection of icons, widgets, and wallpapers for iOS. 
+![Screenshots of my minimalish theme](https://raw.githubusercontent.com/jpasholk/iOS-Themes/main/minimalish-icon-theme/minimal-tranparent-icon-theme-preview.png)
+
+In this theme I use the Shortcuts app to help create the transparent icons and set them as "bookmarks" on the homepage to act as app icons. Perhaps I'll do a write up on how it's done in the future, but all that information can be found online elsewhere.
+
+## Links
+
+* [SCSettings - access burried settings and toggles quickly](https://routinehub.co/shortcut/17931/)
+* [ShortPhone - Quickly access common phone actions](https://routinehub.co/shortcut/19388/)
