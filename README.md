@@ -9,7 +9,7 @@ In this theme I use the Shortcuts app to help create the transparent icons and s
 
 Perhaps I'll do a write up on how it's done in the future, but all that information can be found online elsewhere.
 
-### Phone
+### ShortPhone
 
 After finding that wallpaper and creating some icons for the dock, I was inspired to create a Shortcut for the Phone app. I realized that I hardly ever use the app itself, and instead just answer calls or ask Siri to call people.
 
@@ -31,6 +31,8 @@ So I set out to create a Shortcut that would let me access all of these funtions
 ***
 
 #### SCSettings Features - Copied From The RoutineHub Page
+
+Instead of opening Settings, tapping the icon will run this Shortcut.
 
 ##### Show Information About Your Device
 
