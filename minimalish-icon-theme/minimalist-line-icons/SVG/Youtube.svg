@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 101.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g id="Youtube">
+      <path class="cls-1" d="M108.29,4.5H31.71c-15.03,0-27.21,12.15-27.21,27.13v38.18c0,14.98,12.18,27.13,27.21,27.13h76.59c15.03,0,27.21-12.15,27.21-27.13V31.63c0-14.98-12.18-27.13-27.21-27.13Z"/>
+      <path d="M89.89,52.58l-35.82,17.04c-.95.45-2.06-.24-2.06-1.29v-35.14c0-1.07,1.13-1.76,2.09-1.28l35.82,18.1c1.07.54,1.05,2.06-.03,2.57Z"/>
+    </g>
+  </g>
+</svg>
