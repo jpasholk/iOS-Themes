@@ -11,6 +11,8 @@ Perhaps I'll do a write up on how it's done in the future, but all that informat
 
 ### ShortPhone
 
+![ShortPhone screenshots - showing an iOS Shortcut that makes accessing actions within the Phone app more accessible.](https://raw.githubusercontent.com/jpasholk/jpshlk-blog/main/src/assets/shortphone-screenshots.png)
+
 After finding that wallpaper and creating some icons for the dock, I was inspired to create a Shortcut for the Phone app. I realized that I hardly ever use the app itself, and instead just answer calls or ask Siri to call people.
 
 The only time I open the app is to occaisionally access Favorites, Recents, or Voicemail.
@@ -30,7 +32,9 @@ So I set out to create a Shortcut that would let me access all of these funtions
 
 ***
 
-#### SCSettings Features - Copied From The RoutineHub Page
+### SCSettings
+
+![SCSettings Screenshots - An iOS Shortcut that helps users access settings and toggles that are burried in the Settings app.](https://raw.githubusercontent.com/jpasholk/jpshlk-blog/main/src/assets/scsettings–screenshots.png)
 
 Instead of opening Settings, tapping the icon will run this Shortcut.
 
