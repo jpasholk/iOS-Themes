@@ -1,4 +1,4 @@
-# iOS-Themes
+# Minimalish Theme
 ![Screenshots of my minimalish theme](https://raw.githubusercontent.com/jpasholk/iOS-Themes/main/minimalish-icon-theme/minimal-tranparent-icon-theme-preview.png)
 
 A collection of icons, widgets, and wallpapers for iOS.
