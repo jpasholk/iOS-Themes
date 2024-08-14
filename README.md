@@ -7,4 +7,6 @@ In this theme I use the Shortcuts app to help create the transparent icons and s
 ## Links
 
 * [SCSettings - access burried settings and toggles quickly](https://routinehub.co/shortcut/17931/)
-* [ShortPhone - Quickly access common phone actions](https://routinehub.co/shortcut/19388/)
+* [ShortPhone - quickly access common phone actions](https://routinehub.co/shortcut/19388/)
+
+<a href="https://www.buymeacoffee.com/jpasholk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
