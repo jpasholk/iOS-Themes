@@ -19,14 +19,14 @@ So I set out to create a Shortcut that would let me access all of these funtions
 
 #### ShortPhone Features
 
-- Connect - Open a menu to let you share your contact through card with the Share Sheet, or QR code.
-- Add Contact - Opens the Add Contact Sheet
-- Open - Opens the Phone app to the last tab (what tapping the app icon would do)
-- Voicemail - Opens the voicemail tab
-- Contacts - Opens the contacts tab
-- Recents - Opens the recents tab
-- Favorites - Opens the favorites tab
-- Favorite Contacts - The menu has room for three favorite contacts before having to scroll, at least on my iPhone 13 Pro Max.
+- **Connect** - Open a menu to let you share your contact through card with the Share Sheet, or QR code.
+- **Add Contact** - Opens the Add Contact Sheet.
+- **Open** - Opens the Phone app to the last tab (what tapping the app icon would do).
+- **Voicemail** - Opens the voicemail tab.
+- **Contacts** - Opens the contacts tab.
+- **Recents** - Opens the recents tab.
+- **Favorites** - Opens the favorites tab.
+- **Favorite Contacts** - The menu has room for three favorite contacts before having to scroll, at least on my iPhone 13 Pro Max.
 
 ***
 
